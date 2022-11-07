@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropdown-menu > li:hover > .submenu {
+    display: block;
+}
